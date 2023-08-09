@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Pomodoro": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TOKEN": "MTEzMzg2MzEyMzE3OTI4NjYwOA.GnCppL.2LvtTdIeq6nHf4SHAkmzkp59I-fzJfbcWB86p4"
+      }
+    }
+  }
+}
